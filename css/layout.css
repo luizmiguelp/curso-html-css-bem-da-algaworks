@@ -1,0 +1,11 @@
+.l-cabecalho {
+   height: 60px;
+   border-bottom: 1px solid #cccccc;
+ }
+ 
+ .l-cabecalho > img {
+   margin-top: 12px;
+ }
+ .l-planos {
+   padding: 80px 0;
+ }
